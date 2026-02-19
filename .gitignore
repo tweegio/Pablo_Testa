@@ -1,0 +1,67 @@
+# ========================================
+# .gitignore para Landing Page
+# ========================================
+
+# Archivos del sistema operativo
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Editores e IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# Node.js (si usas herramientas de build en el futuro)
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Archivos temporales
+*.tmp
+*.temp
+*.log
+*.cache
+
+# Backups
+*.bak
+*.backup
+*-backup.*
+
+# Archivos de desarrollo
+/dev/
+/test/
+/drafts/
+
+# Variables de entorno (si usas)
+.env
+.env.local
+.env.*.local
+
+# Archivos de build (si usas procesadores)
+/dist/
+/build/
+
+# Documentos de trabajo personal
+TODO.md
+NOTES.md
+/personal/
+
+# Imágenes temporales o de prueba con ciertos patrones
+*-temp.*
+*-test.*
+*-draft.*
+
+# No ignorar estos archivos importantes
+!.gitkeep
+!README.md

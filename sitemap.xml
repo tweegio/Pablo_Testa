@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Página principal -->
+  <url>
+    <loc>https://tusitio.github.io/pablo-testa-landing/</loc>
+    <lastmod>2026-02-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    
+    <!-- Imágenes principales del sitio -->
+    <image:image>
+      <image:loc>https://tusitio.github.io/pablo-testa-landing/assets/img/logo-pablo-testa-artista-plastico-gba-sur.png</image:loc>
+      <image:title>Pablo Testa - Logo Artista Plástico GBA Sur</image:title>
+      <image:caption>Logo oficial de Pablo Testa, artista plástico y muralista</image:caption>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://tusitio.github.io/pablo-testa-landing/assets/img/mural-exterior-1.jpg</image:loc>
+      <image:title>Mural exterior en Lomas de Zamora</image:title>
+      <image:caption>Mural artístico abstracto en fachada comercial</image:caption>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://tusitio.github.io/pablo-testa-landing/assets/img/mural-interior-1.jpg</image:loc>
+      <image:title>Mural interior minimalista</image:title>
+      <image:caption>Diseño mural para sala de estar</image:caption>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://tusitio.github.io/pablo-testa-landing/assets/img/lienzo-1.jpg</image:loc>
+      <image:title>Obra en lienzo - Acrílico abstracto</image:title>
+      <image:caption>Pintura acrílica sobre lienzo 100x120cm</image:caption>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://tusitio.github.io/pablo-testa-landing/assets/img/proyecto-comercial-1.jpg</image:loc>
+      <image:title>Proyecto comercial - Branding mural</image:title>
+      <image:caption>Mural corporativo para cafetería en Banfield</image:caption>
+    </image:image>
+  </url>
+  
+  <!-- Secciones ancladas (opcional, para Google entender la estructura) -->
+  <url>
+    <loc>https://tusitio.github.io/pablo-testa-landing/#sobre-mi</loc>
+    <lastmod>2026-02-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://tusitio.github.io/pablo-testa-landing/#galeria</loc>
+    <lastmod>2026-02-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://tusitio.github.io/pablo-testa-landing/#proceso</loc>
+    <lastmod>2026-02-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://tusitio.github.io/pablo-testa-landing/#contacto</loc>
+    <lastmod>2026-02-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
+
+<!-- 
+  IMPORTANTE: Reemplazar "tusitio.github.io/pablo-testa-landing" 
+  con tu URL real de GitHub Pages.
+  
+  Después del deploy:
+  1. Actualizar todas las URLs en este archivo
+  2. Subir a Google Search Console
+  3. Actualizar lastmod cuando hagas cambios significativos
+-->

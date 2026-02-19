@@ -1,0 +1,53 @@
+# robots.txt para Pablo Testa - Artista Plástico
+# Optimizado para SEO
+
+User-agent: *
+Allow: /
+
+# Permitir acceso a CSS y JS para rendering correcto
+Allow: /assets/css/
+Allow: /assets/js/
+Allow: /assets/img/
+
+# Bloquear solo si hubiera directorios privados (actualmente ninguno)
+# Disallow: /admin/
+# Disallow: /private/
+
+# Crawl-delay (solo si hay problemas de carga del servidor)
+# Crawl-delay: 10
+
+# Sitemap
+Sitemap: https://tusitio.github.io/pablo-testa-landing/sitemap.xml
+
+# User-agents específicos
+
+# Google
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /assets/img/
+
+# Bing
+User-agent: Bingbot
+Allow: /
+
+# Yandex
+User-agent: Yandex
+Allow: /
+
+# Bloquear bots maliciosos conocidos
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+# Nota: Reemplazar "tusitio.github.io/pablo-testa-landing" 
+# con tu URL real de GitHub Pages cuando despliegues
